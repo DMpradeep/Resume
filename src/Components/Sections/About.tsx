@@ -22,8 +22,8 @@ export const About = (): JSX.Element => {
                         I have experience working in <b>Oil & Gas, Healthcare and Retail </b> domains.
                     </p>
                     <div className="social-icons">
-                        <a className="social-icon" href="https://www.linkedin.com/in/dmpradeep" target="_blank"><i className="fab fa-linkedin-in"></i></a>
-                        <a className="social-icon" href="https://github.com/DMpradeep" target="_blank"><i className="fab fa-github"></i></a>
+                        <a className="social-icon" href="https://www.linkedin.com/in/dmpradeep" target="_blank" rel="noreferrer"><i className="fab fa-linkedin-in"></i></a>
+                        <a className="social-icon" href="https://github.com/DMpradeep" target="_blank" rel="noreferrer"><i className="fab fa-github"></i></a>
                     </div>
                 </div>
             </section >
