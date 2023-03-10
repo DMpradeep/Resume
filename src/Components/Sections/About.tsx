@@ -10,7 +10,9 @@ export const About = (): JSX.Element => {
                     <div className="subheading mb-5">
                         #A16 Veerabadreshwara Nilaya BM Layout Nanjangud Karnataka - 571301 
                         <br />
-                        <a href="mailto:pradeepdm.office@gmail.com">pradeepdm.office@gmail.com</a>
+                        Email : <a href="mailto:pradeepdm.office@gmail.com">pradeepdm.office@gmail.com</a>
+                        <br />
+                        Phone : +91 8553726805
                     </div>
                     <p className="lead mb-5">
                         IT professional with 5+ years of experience in developing cloud native web applications using <b>ReactJs, Dotnet and Azure</b>. 
@@ -20,8 +22,8 @@ export const About = (): JSX.Element => {
                         I have experience working in <b>Oil & Gas, Healthcare and Retail </b> domains.
                     </p>
                     <div className="social-icons">
-                        <a className="social-icon" href="https://www.linkedin.com/in/dmpradeep"><i className="fab fa-linkedin-in"></i></a>
-                        <a className="social-icon" href="https://github.com/DMpradeep"><i className="fab fa-github"></i></a>
+                        <a className="social-icon" href="https://www.linkedin.com/in/dmpradeep" target="_blank"><i className="fab fa-linkedin-in"></i></a>
+                        <a className="social-icon" href="https://github.com/DMpradeep" target="_blank"><i className="fab fa-github"></i></a>
                     </div>
                 </div>
             </section >
